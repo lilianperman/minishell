@@ -1,0 +1,9 @@
+cat teste > teste2
+"echo "hello "world"""
+"hello world"
+hello" "world
+--$PWD" "$USER--
+"tudo que está entre aspas"
+"$PWD"
+"'echo'"
+"     "
